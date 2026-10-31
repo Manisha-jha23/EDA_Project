@@ -59,4 +59,4 @@ Manisha
 
 Computer Science and Data Science Student
 
-GitHub: [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+GitHub: [Your GitHub Profile](https://github.com/Manisha-jha23)
